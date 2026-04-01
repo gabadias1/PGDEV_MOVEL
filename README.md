@@ -5,7 +5,7 @@
 Projeto simples de CRUD de usuários usando:
 
 * Backend: Node.js + Express
-* Banco: PostgreSQL
+* Banco: Docker --> PostgreSQL
 * Frontend: Flutter
 
 ---
@@ -16,6 +16,8 @@ Projeto simples de CRUD de usuários usando:
 
 Instalar tudo:
 
+Instalar Docker Compose
+
 ```bash
 npm install
 ```
@@ -23,7 +25,7 @@ npm install
 Caso precise instalar manualmente:
 
 ```bash
-npm install express cors pg swagger-ui-express
+npm install express cors swagger-ui-express
 npm install nodemon --save-dev
 ```
 
