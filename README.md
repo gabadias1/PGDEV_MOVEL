@@ -16,8 +16,6 @@ Projeto simples de CRUD de usuários usando:
 
 Instalar tudo:
 
-Instalar Docker Compose
-
 ```bash
 npm install
 ```
@@ -27,6 +25,10 @@ Caso precise instalar manualmente:
 ```bash
 npm install express cors swagger-ui-express
 npm install nodemon --save-dev
+```
+
+```
+Instalar Docker Compose
 ```
 
 ---
