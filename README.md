@@ -64,7 +64,7 @@ npm run dev
 ### Frontend
 
 ```bash
-flutter run
+flutter run -d chrome
 ```
 
 ---
