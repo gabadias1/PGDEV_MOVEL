@@ -29,6 +29,7 @@ npm install nodemon --save-dev
 
 ```
 Instalar Docker Compose
+Logo após instalar, suba ele usando "docker-compose up -d"
 ```
 
 ---
@@ -37,6 +38,12 @@ Instalar Docker Compose
 
 ```bash
 flutter pub get
+Caso não tiver permissão ou não funcionar, use :
+
+"cd ~ git clone https://github.com/flutter/flutter.git -b stable"
+e
+"echo 'export PATH="$PATH:$HOME/flutter/bin"' >> ~/.bashrc
+source ~/.bashrc"
 ```
 
 ---
