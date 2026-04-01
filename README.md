@@ -54,14 +54,13 @@ source ~/.bashrc"
 
 ## 🗄️ Banco de Dados
 
-use 
-```bash
+Use
+```sql
 "docker exec -it postgres_dev_movel psql -U user -d teste"
-``
+
 para abrir sql no terminal e logo após crie a tabela
 
 
-```sql
 CREATE DATABASE teste;
 
 CREATE TABLE usuarios (
