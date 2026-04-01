@@ -126,5 +126,6 @@ app.delete('/usuarios/:id', async (req, res) => {
 
 // ================= SERVER =================
 app.listen(3000, () => {
-  console.log('Rodando em http://localhost:3000');
+  console.log('API em http://localhost:3000/api-docs/,'),
+  console.log('Inicie o frontend em outro terminal com "flutter run -d chrome"');
 });
