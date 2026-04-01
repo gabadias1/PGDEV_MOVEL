@@ -59,12 +59,6 @@ CREATE TABLE usuarios (
 npm run dev
 ```
 
-ou
-
-```bash
-node index.js
-```
-
 ---
 
 ### Frontend
