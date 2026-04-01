@@ -38,6 +38,10 @@ Logo após instalar, suba ele usando "docker-compose up -d"
 
 ```bash
 flutter pub get
+```
+Caso não tiver permissão ou não funcionar, use :
+
+```bash
 Caso não tiver permissão ou não funcionar, use :
 
 "cd ~ git clone https://github.com/flutter/flutter.git -b stable"
